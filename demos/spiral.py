@@ -32,5 +32,5 @@ def animation(i):
     # spiral4.set_data(x1, -x2)
 
 ani = FuncAnimation(fig, func=animation, interval=1, frames=700)
-ani.save("spiral.gif", fps=60)
+ani.save("../gifs/spiral.gif", fps=60)
 plt.show()

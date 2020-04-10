@@ -35,5 +35,5 @@ def next_frame(i, spheres):
 
 ani = FuncAnimation(fig, func=next_frame, fargs=(spheres,), interval=50, frames=200)
 
-ani.save("spheres.gif", fps=30)
+ani.save("../gifs/spheres.gif", fps=30)
 # plt.show()

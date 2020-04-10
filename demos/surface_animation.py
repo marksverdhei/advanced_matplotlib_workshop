@@ -26,5 +26,5 @@ def next_frame(i, surface):
 
 ani = FuncAnimation(fig, func=next_frame, fargs=(surface,), interval=20, frames=315)
 
-# ani.save("surface20.gif", fps=30)
+# ani.save("../gifs/surface20.gif", fps=30)
 plt.show()

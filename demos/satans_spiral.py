@@ -24,6 +24,6 @@ def animation(i):
     spiral2.set_data(-x1, x2)
 
 ani = FuncAnimation(fig, func=animation, interval=1, frames=380)
-ani.save("satans_spiral5.gif", fps=60)
+ani.save("../gifs/satans_spiral5.gif", fps=60)
 
 plt.show()

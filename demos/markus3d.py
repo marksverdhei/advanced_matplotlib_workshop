@@ -72,4 +72,4 @@ surf2 = [ax.plot_surface(-X, -Y, -Z, cmap="coolwarm_r")]
 ani = FuncAnimation(fig, next_frame, interval=20, frames=320)
 
 # plt.show()
-ani.save("jesusfisk.gif", fps=60)
+ani.save("../gifs/jesusfisk.gif", fps=60)
