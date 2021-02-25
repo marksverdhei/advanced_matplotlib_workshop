@@ -1,4 +1,4 @@
-# advanced_matplotlib_workshop
+# Advanced Matplotlib Workshop
 ### Markus Sverdvik Heiervang - markuhei | [LI:ST]
 ***
 I denne workshopen går vi igjennom hvordan man plotter og animerer både enkle,
